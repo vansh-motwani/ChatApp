@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # chat_app
 
 A new Flutter project.
@@ -18,4 +18,14 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # ChatApp
 My first chat app made on Flutter Framework.
->>>>>>> c8570ac5315c39a4472c3143f9e36d7a554db3fa
+It has some advance features like:-
+1-> Push Notification
+2-> Image upload of a user (Using Sensors)
+3-> User Authentication etc.
+
+Some pics of the App:-
+![ChatApp4](https://github.com/user-attachments/assets/c30c3733-187b-4417-9c9a-c8244926588a)
+![Chat_App1](https://github.com/user-attachments/assets/8bd61369-0e44-4e9e-8a36-5d38d5b53caa)
+![ChatApp2](https://github.com/user-attachments/assets/933a7122-30aa-415a-a3a3-bf715106bc5e)
+![ChatApp3](https://github.com/user-attachments/assets/bdac0535-e5b7-4b7c-83bd-40dd71f5b489)
+
